@@ -1,0 +1,12 @@
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\bin\Debug\Music Practice Recording App.exe.config
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\bin\Debug\Music Practice Recording App.exe
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\bin\Debug\Music Practice Recording App.pdb
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music Practice Recording App.csproj.AssemblyReference.cache
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music_Practice_Recording_App.Form1.resources
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music_Practice_Recording_App.Form2.resources
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music_Practice_Recording_App.Properties.Resources.resources
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music Practice Recording App.csproj.GenerateResource.cache
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music Practice Recording App.csproj.CoreCompileInputs.cache
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music Practice Recording App.exe
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music Practice Recording App.pdb
+C:\Users\vulon\OneDrive - Westbourne Grammar School\Desktop\New folder\Music Practice Recording App\Music Practice Recording App\obj\Debug\Music_Practice_Recording_App.Form3.resources

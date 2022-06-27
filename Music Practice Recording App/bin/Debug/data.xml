@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pRecordData>
+  <practiceRecord>
+    <date>23/06/2022</date>
+    <startTime>15:33</startTime>
+    <endTime>15:55</endTime>
+    <sectionData>
+      <section>
+        <name>a</name>
+        <time>1</time>
+      </section>
+      <section>
+        <name>b</name>
+        <time>212</time>
+      </section>
+      <section>
+        <name>c</name>
+        <time>34</time>
+      </section>
+      <section>
+        <name>d</name>
+        <time>10</time>
+      </section>
+    </sectionData>
+  </practiceRecord>
+</pRecordData>
